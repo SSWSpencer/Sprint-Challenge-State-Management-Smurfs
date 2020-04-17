@@ -1,3 +1,19 @@
 .App {
   text-align: center;
 }
+
+.smurfVillage{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 80%;
+  margin: 2% auto;
+}
+
+.smurfCard {
+  background: lightblue;
+  padding: 1% 3%;
+  border: 2px solid darkblue;
+  border-radius: 10px;
+  margin: 2%;
+}
